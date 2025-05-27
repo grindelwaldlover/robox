@@ -1,0 +1,3 @@
+COM4, VID: None, PID: None, Description: Стандартный последовательный порт по соединению Bluetooth (COM4)
+COM6, VID: 1027, PID: 24577, Description: USB Serial Port (COM6)
+COM3, VID: None, PID: None, Description: Стандартный последовательный порт по соединению Bluetooth (COM3)
